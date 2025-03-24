@@ -7,3 +7,16 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  font-family: "source sans pro", sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
